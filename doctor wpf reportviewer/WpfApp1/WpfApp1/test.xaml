@@ -1,0 +1,117 @@
+﻿<Window
+    FlowDirection="RightToLeft"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:mat="clr-namespace:Telerik.Windows.Controls.MaterialControls;assembly=Telerik.Windows.Controls"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="WpfApp1.test"
+        mc:Ignorable="d"
+     Loaded="OnExampleUserControlLoaded"
+             Unloaded="OnExampleUnloaded"
+    Activated="Window_Activated"
+        Title="test" Height="450"  Width="800">
+ 
+        
+
+      <Grid MaxWidth="800" MaxHeight="600">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid x:Name="Header" Background="#0099BC" Height="30">
+                <TextBlock TextWrapping="Wrap" FontFamily="Arial" FontSize="16" Foreground="White"
+                       VerticalAlignment="Center" Text="UPDATE DETAILS" Margin="16 6 0 6" />
+            </Grid>
+            <Border Grid.Row="1">
+                <Grid Margin="90 0 90 0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="USER PROFILE" TextAlignment="Center" Margin="0 48 0 0" FontSize="16" Foreground="#0099BC"/>
+
+                    <Grid Width="270" Height="250" Margin="0 25 0 0" Grid.Row="1">
+                        <Border Background="#F2F2F2">
+                            <Image Width="270" Height="250" x:Name="imageControl"  Stretch="Uniform" RenderOptions.BitmapScalingMode="HighQuality" />
+                        </Border>
+                        <telerik:RadWebCam x:Name="webCam" MinWidth="0" MinHeight="0" AutoStart="False"
+                                       BorderThickness="1"
+                                       Visibility="Hidden"
+                                       RecordingButtonVisibility="Collapsed"
+                                       SnapshotTaken="OnWebCamSnapshotTaken" />
+                        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Grid>
+                                    <telerik:RadButton x:Name="takePhotoButton" Background="#7FFFFFFF" CornerRadius="32"
+                                                   Width="64" Height="64" Click="OnOpenTakePhotoClick" Padding="0">
+                                        <telerik:RadGlyph Glyph="GlyphPhotoCamera" FontSize="32"
+                                                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Foreground="#505050"/>
+                                    </telerik:RadButton>
+                                </Grid>
+                                <Grid Margin="9 0 0 0">
+                                    <telerik:RadButton x:Name="deletePhotoButton" Background="#7FFFFFFF" CornerRadius="13"
+                                                    Width="26" Height="26" Click="OnDeletePhotoClick" Padding="0" IsEnabled="False">
+                                        <telerik:RadGlyph Glyph="GlyphDelete}" FontSize="16" 
+                                                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  
+                                                      Foreground="#505050" IsEnabled="False"/>
+                                    </telerik:RadButton>
+                                </Grid>
+                            </StackPanel>
+                            <TextBlock x:Name="takePhotoTextBlock" Foreground="White" Text="Take Photo" Margin="0 13 0 0" FontSize="18" TextAlignment="Center" />
+                        </StackPanel>
+                        <telerik:RadButton VerticalAlignment="Bottom" HorizontalAlignment="Left" 
+                                           x:Name="stopCameraButton" Width="30" Height="30" Margin="12 0 5 10"                                           
+                                           Click="OnStopCameraButtonClick" Visibility="Collapsed">
+                            <ToolTipService.ToolTip>
+                                <ToolTip Content="Cancel" />
+                            </ToolTipService.ToolTip>
+                            <telerik:RadGlyph Glyph="GlyphClose}" FontSize="18" />
+                        </telerik:RadButton>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" Margin="30 25 0 0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="User Name: " HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                        <telerik:RadButton  x:Name="editUserNameButton" Background="Transparent" BorderThickness="0"
+                                        HorizontalAlignment="Right" Width="16" Height="16" Grid.Column="1" Padding="0"
+                                        Click="OnEditUserNameButtonClick">
+                            <telerik:RadGlyph Glyph="GlyphEdit}" FontSize="16" Foreground="#505050"/>
+                        </telerik:RadButton>
+                        <TextBox x:Name="userNameInput" Text="Tori" Grid.Row="1" Margin="0 10 0 0" Grid.ColumnSpan="2" IsReadOnly="True"/>
+
+                        <TextBlock Text="Email:" Grid.Row="2" Margin="0 20 0 0" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+                        <telerik:RadButton  x:Name="editEmailButton" Background="Transparent" BorderThickness="0" Grid.Row="2" Padding="0"
+                                        HorizontalAlignment="Right" Width="16" Height="16" Grid.Column="1" Margin="0 15 0 0" Click="OnEditEmailButtonClick">
+                            <telerik:RadGlyph Glyph="GlyphEdit" FontSize="16" Foreground="#505050"/>
+                        </telerik:RadButton>
+                        <TextBox x:Name="emailInput" Text="tori@example.com" Grid.Row="3" Margin="0 10 0 0" Grid.ColumnSpan="2" IsReadOnly="True"/>
+
+                        <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Right" Margin="0 21 0 0">
+                            <telerik:RadButton x:Name="cancelButton" Content="Cancel" Width="92" Click="OnCancelOrSaveButtonClick" IsEnabled="False"/>
+                            <telerik:RadButton x:Name="saveButton" Content="Save changes" Margin="15 0 0 0" Click="OnCancelOrSaveButtonClick" Width="92" IsEnabled="False"/>
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+            </Border>
+        </Grid>
+   
+</Window>

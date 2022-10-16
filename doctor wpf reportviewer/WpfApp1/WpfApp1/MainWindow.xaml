@@ -1,0 +1,105 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="WpfApp1.MainWindow"
+        mc:Ignorable="d"
+    Loaded="Window_Loaded"
+    xmlns:beha="clr-namespace:WpfApp1"
+    Initialized="Window_Initialized"
+        FlowDirection="LeftToRight"
+        Title="AzherGroup" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None">
+    <Grid>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+
+        <telerik:RadNavigationView x:Name="navigationView" PaneHeader="Menu" Grid.Row="1"   IsPaneOpen="False"  >
+            <telerik:RadNavigationView.Items>
+                <telerik:RadNavigationViewItem Content="patient" Name="patientm" Click="RadNavigationViewItem_Click">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="user" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+                <telerik:RadNavigationViewItem Content="visit" Name="visitm" Click="RadNavigationViewItem_Click_3">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe63f;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+                <telerik:RadNavigationViewItem Content="gallery" Name="gallerym" Click="RadNavigationViewItem_Click_9">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe501;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+                <telerik:RadNavigationViewItem Content="Information" Name="infom" Click="RadNavigationViewItem_Click_7">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe91a;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+
+
+
+
+                <telerik:RadNavigationViewItem Content="Users" Name="usersm" Click="RadNavigationViewItem_Click_8">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe801;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+                <telerik:RadNavigationViewItem Content="Backup" Name="backupm" Click="RadNavigationViewItem_Click_6">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe109;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+                <telerik:RadNavigationViewItem Content="About" Name="aboutm" Click="RadNavigationViewItem_Click_2">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe402;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+                <telerik:RadNavigationViewItem Content="Exit" Name="exitm" Click="RadNavigationViewItem_Click_5">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe11c;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+                <telerik:RadNavigationViewItem Content="Update" x:Name="updatem" Click="RadNavigationViewItem_Click_1">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xE13B;" FontSize="22"/>
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+
+
+
+             
+            </telerik:RadNavigationView.Items>
+            <telerik:RadNavigationView.Content>
+
+                <Frame  Name="frame1" Background="White"  beha:DisableNavigation.Disable="True"  />
+            </telerik:RadNavigationView.Content>
+
+            <telerik:RadNavigationView.PaneFooter >
+                <telerik:RadNavigationViewItem Content="Settings"  Click="RadNavigationViewItem_Click_4"
+                                              
+                                               CommandParameter="{Binding ElementName=navigationView}"
+                                               IconTemplate="{x:Null}">
+                    <telerik:RadNavigationViewItem.Icon>
+                        <telerik:RadGlyph Glyph="&#xe13a;" FontSize="20" />
+                    </telerik:RadNavigationViewItem.Icon>
+                </telerik:RadNavigationViewItem>
+            </telerik:RadNavigationView.PaneFooter>
+        </telerik:RadNavigationView>
+
+
+
+    </Grid>
+</Window>

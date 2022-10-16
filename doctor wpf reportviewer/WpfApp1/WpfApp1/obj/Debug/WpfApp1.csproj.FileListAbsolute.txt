@@ -1,0 +1,1588 @@
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\updater2.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\About.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\patient.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\test.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\visit.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\setting.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\dbhelper.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\dbhelper.pdb
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\project\doctors\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\About.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\patient.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\setting.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\test.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\visit.baml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.testreport.resources
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\EnvDTE80.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\VSLangProj.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\VSLangProj80.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Framework.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\VSLangProj2.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE80.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj80.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Framework.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj2.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Awat\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE80.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj80.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj2.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report11.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report10.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report9.rdlc
+C:\Users\Daban\Desktop\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report11.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report10.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report9.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report12.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\updater2.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.g.cs
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.baml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\summary.rdlc
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report11.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report10.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report12.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report9.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\summary.rdlc
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE80.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj80.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.Build.Framework.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\VSLangProj2.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report11.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report10.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report12.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report3.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report4.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report5.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report6.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report7.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report8.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report9.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\LicenseVerify.cer
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report1.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Report2.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\summary.rdlc
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.Shared.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Lighty.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\TelerikCommon.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\EnvDTE.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\stdole.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ShockwaveFlashObjects.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Microsoft.MSXML.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\DemoLicense.pdb
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.pdb
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\QLicense.Windows.Controls.pdb
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.WinControls.UI.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-Hans\QLicense.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Interop.WIA.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Interop.WIA.dll
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.ResolveComReference.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\CoreResourceDictionary.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\DataWindowResourceDictionary.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\UserControlResourceDictionary.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\About.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\patient.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\App.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Activation.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\cameraa.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\drugandtestwindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\editgallery.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\gallery.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\LoginWindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\repwindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Resources.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Scan.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\setting.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\Styles\Blue.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\SystemInformationWindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\test.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\testresults.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\userwindow.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\visit.baml
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Form1.resources
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.repTest.resources
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.settings.resources
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\RdlCompile.compiled
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\doctor wpf reportviewer\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\MediaFoundation.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.Direct3D9.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\SharpDX.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\FlashControlV71.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Media.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Data.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.MediaFoundation.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\Telerik.Windows.Zip.xml
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\doctor wpf reportviewer\WpfApp1\WpfApp1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll

@@ -1,0 +1,71 @@
+﻿<Window x:Class="WpfApp1.gallery"
+        FlowDirection="RightToLeft"
+        xmlns:lighty="clr-namespace:SourceChord.Lighty;assembly=Lighty"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+         xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        Title="gallery" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" >
+
+        <telerik:RadButton Name="new" Content="Camera" Margin="5" Click="New_Click"  VerticalAlignment="Center"></telerik:RadButton>
+            <telerik:RadButton Name="scane" Click="Scane_Click" Content="Scan File" Margin="5"  VerticalAlignment="Center"></telerik:RadButton>
+
+            <telerik:RadButton Name="file" Click="File_Click" Content="Browse Picture" Margin="5"  VerticalAlignment="Center"></telerik:RadButton>
+
+
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Margin="0,0,0,0" Padding="0,0,0,0" Background="#FFFAFAF8" >
+            <WrapPanel  Grid.Row="1">
+
+
+
+                <ItemsControl Name="productlist">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+
+
+
+
+
+
+                            <Grid Margin="5" Grid.Row="2" Grid.Column="0">
+                                <Grid.Effect>
+                                    <DropShadowEffect BlurRadius="20" Color="#FFEEEEEE" ShadowDepth="1"/>
+                                </Grid.Effect>
+                                <Image MouseDown="Image_MouseDown" Source="{Binding gimg, Converter={StaticResource BinaryJPEGToImageSourceConverter}}"  Width="240"  Height="240"  Stretch="UniformToFill"/>
+                                <StackPanel Orientation="Horizontal"  Width="236" Background="White" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="2" >
+                                   
+                                    <TextBlock Text="{Binding gdate}" FontSize="16" TextAlignment="Center" VerticalAlignment="Center" FontFamily="calibri" Foreground="black"/>
+                                </StackPanel>
+
+                              
+                            </Grid>
+
+
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+
+
+
+            </WrapPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

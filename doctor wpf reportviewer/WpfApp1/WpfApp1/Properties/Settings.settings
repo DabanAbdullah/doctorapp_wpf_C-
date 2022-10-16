@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">در.ئاراس</Value>
+    </Setting>
+    <Setting Name="constr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=.;Initial Catalog=doctors;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="enabled" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="last" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2019-08-30</Value>
+    </Setting>
+    <Setting Name="Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="description" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="location" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="footer" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dr.aras</Value>
+    </Setting>
+    <Setting Name="doctorsConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.;Initial Catalog=doctors;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.;Initial Catalog=doctors;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="GP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Drugrep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Report7.rdlc</Value>
+    </Setting>
+    <Setting Name="TestRep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Report8.rdlc</Value>
+    </Setting>
+    <Setting Name="Vhistory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Report11.rdlc</Value>
+    </Setting>
+    <Setting Name="summary" Type="System.String" Scope="User">
+      <Value Profile="(Default)">summary.rdlc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

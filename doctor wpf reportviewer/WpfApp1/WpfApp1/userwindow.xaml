@@ -1,0 +1,189 @@
+﻿<Window x:Class="WpfApp1.userwindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        mc:Ignorable="d"
+        Initialized="Window_Initialized"
+        FlowDirection="LeftToRight"
+        Title="userwindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid Background="#FFEFFFFF">
+
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="0" Grid.Column="1"  Margin="0,0,0,0" Padding="0,0,0,0" >
+          
+
+                <ListView Name="list1"  BorderBrush="Black" BorderThickness="2" SelectionChanged="List1_SelectionChanged" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+
+
+                            <Grid Margin="5"  >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="35" ></RowDefinition>
+                                    <RowDefinition Height="25" ></RowDefinition>
+
+                                </Grid.RowDefinitions>
+
+
+
+
+                                <StackPanel Orientation="Horizontal"  Grid.Row="0"   VerticalAlignment="Top" Grid.ColumnSpan="2">
+
+                                    <TextBox Width="100" Height="24" VerticalAlignment="Top"  Margin="20,-5,10,0" Text="{Binding uname}"  TextWrapping="Wrap"  ></TextBox>
+                                    <TextBox    Width="100" Height="24" VerticalAlignment="Top"  Margin="20,-5,10,0" Text="{Binding upass}"  TextWrapping="Wrap" ></TextBox>
+
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal" Grid.Row="1"  Grid.ColumnSpan="2" VerticalAlignment="Top">
+
+
+                                    <TextBox Width="200" Height="24" VerticalAlignment="Top"  Margin="20,-5,10,0" Text="{Binding role}" TextWrapping="Wrap" ></TextBox>
+
+
+
+
+                                </StackPanel>
+
+
+                            </Grid>
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+
+
+
+         
+        </ScrollViewer>
+
+
+
+
+
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+            <Grid Background="#FFF3FFF7" >
+                <!--info-->
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Name" FontFamily="calibri" FontSize="19" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+                <TextBlock Text="Password" FontFamily="calibri" Grid.Row="1" FontSize="19" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+                <TextBox Name="uname"  FontFamily="calibri" FontSize="19" Margin="3" Height="30"  Grid.Column="1" Foreground="Red"  />
+
+                <telerik:RadPasswordBox Name="upass" Margin="3" FontFamily="calibri" Grid.Row="1" FontSize="19" Height="30"  Grid.Column="1" Foreground="Red" />
+
+
+
+                <StackPanel Orientation="Horizontal" Grid.Column="1" Margin="10"  Grid.Row="2">
+
+                    <Button  Foreground="Black" Height="32" Width="48" Margin="3"  Name="add" Click="Add_Click">
+                        <Button.Background>
+                            <ImageBrush ImageSource="Image/save.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+
+                    <Button  Foreground="Black" Height="32" Width="48" Margin="3" Name="edit" Click="Edit_Click">
+                        <Button.Background>
+                            <ImageBrush ImageSource="Image/edit.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+
+                    <Button  Foreground="Black" Name="trashdel" Click="Trashdel_Click" Height="32" Width="48" Margin="3">
+                        <Button.Background>
+                            <ImageBrush ImageSource="image/trash.png" Stretch="Uniform"/>
+                        </Button.Background>
+                    </Button>
+
+
+
+
+                </StackPanel>
+
+
+
+            </Grid>
+
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Margin="0,0,0,0" Padding="0,0,0,0" Background="#FFF6FAEE" >
+                <WrapPanel Name="pr"  >
+
+                    <ItemsControl Name="productlist" >
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel />
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+
+
+
+                                <StackPanel Orientation="Horizontal" Margin="20">
+                                    <CheckBox IsChecked="{Binding check}"    FontFamily="calibri" FontSize="16" Click="CheckBox_Click" />
+                                    <TextBlock Text="{Binding role}" FontFamily="calibri" FontSize="16"></TextBlock>
+
+                                </StackPanel>
+
+
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+
+                </WrapPanel>
+            </ScrollViewer>
+
+
+
+
+
+
+
+        </Grid>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
+

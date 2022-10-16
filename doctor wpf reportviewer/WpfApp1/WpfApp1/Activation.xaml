@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.Activation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Initialized="Window_Initialized"
+        Loaded="Window_Loaded"
+        Title="Activation" Height="300" Width="300" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox x:Name="id" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="key" TextAlignment="Center"  TextWrapping="Wrap"
+AcceptsReturn="True"
+HorizontalScrollBarVisibility="Disabled"
+VerticalScrollBarVisibility="Auto"  HorizontalAlignment="Left" Height="159" Margin="10,50,0,0"  Text="TextBox" VerticalAlignment="Top" Width="272"/>
+        <Button x:Name="button" Content="validate" Click="button_Click" HorizontalAlignment="Left" Margin="198,226,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
